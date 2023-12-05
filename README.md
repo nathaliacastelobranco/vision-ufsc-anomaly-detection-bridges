@@ -34,5 +34,4 @@ Este trabalho possui um [vídeo de apresentação publicado no Youtube](https://
 [![Assista ao vídeo](https://img.youtube.com/vi/GbWjok4fCmA/maxresdefault.jpg)](https://youtu.be/GbWjok4fCmA)
 
 ## Poster do trabalho
-
-![Poster do trabalho](https://drive.google.com/file/d/1F7zizRwx27fFU6915YsWIXbVYoWqdz-s/view?usp=sharing)
+![image](https://github.com/nathaliacastelobranco/vision-ufsc-anomaly-detection-bridges/assets/65196779/02e77a69-47e0-4f79-bf93-ac735f5675fb)
